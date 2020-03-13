@@ -13,5 +13,11 @@ public class Test {
         System.out.println("哈哈哈哈哈哈哈哈");
         System.out.println("哈哈哈哈哈哈哈哈");
 
+
+        System.out.println("啊啊啊啊啊啊啊啊");
+        System.out.println("啊啊啊啊啊啊啊啊");
+        System.out.println("啊啊啊啊啊啊啊啊");
+        System.out.println("啊啊啊啊啊啊啊啊");
+
     }
 }
